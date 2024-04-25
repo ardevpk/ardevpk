@@ -12,7 +12,6 @@ I am a passionate Software Engineer specializing in backend development with a f
 - ☁️ I'm interested in Cloud Computing, DevOps, and Systems Architecture.
 - 🛠️ I’m currently developing scalable web applications and microservices.
 - 📖 I'm constantly learning and preparing for new challenges in the tech industry.
-- 📝 I'm open to full-time, part-time, and contract opportunities.
 - ☕ Ask me about software development, backend architecture, and innovative solutions.
 - 🌎 Technology is interconnected, and I love exploring its vast possibilities.
 - 📝 I'm open to:
